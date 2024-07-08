@@ -11,7 +11,7 @@ const Favorites = () => {
           const { idMeal, strMealThumb: image } = item;
 
           return <div key={idMeal} className="favorite-item" >
-            <img src={image} className="favorites-img img" onClick={() => selectMeal(idMeal, true)} />
+            <img src={image} className="favorites-img img" alt={`${item.strMeal || 'Favorite meal'}`}  onClick={() => selectMeal(idMeal, true)} />
             <button className='remove-btn' onClick={() => removeFromFavorites(idMeal)}>remove</button>
           </div>
         })}
