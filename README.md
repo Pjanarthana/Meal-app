@@ -39,6 +39,6 @@ Contributions, issues, and feature requests are welcome. Feel free to check [iss
 This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
 
 ## Contact
-Your Name - janarthananoffl@gmail.com
+E-mail: janarthananoffl@gmail.com
 
 Project Link: [https://github.com/pjanarthana/Meal-app](https://github.com/pjanarthana/Meal-app)
